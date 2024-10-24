@@ -1,2 +1,3 @@
 # classification
 Bu projede, Kaggle'daki balık veri setini kullanarak balık türlerini sınıflandırmak için bir yapay sinir ağı (ANN) modeli geliştirdim. Görselleri işleyerek etiketlerle birlikte eğitim ve test setlerine ayırdım. TensorFlow kullanarak inşa ettiğim modelde çeşitli katmanlar ve dropout kullanarak aşırı öğrenmeyi önledim. Modelin başarımını accuracy ve loss grafikleri ile değerlendirip, confusion matrix ile analiz ettim. Hiperparametre optimizasyonu yaparak en iyi performansı elde etmeye çalıştım ve sonuç olarak başarılı bir sınıflandırma modeli geliştirdim.
+https://www.kaggle.com/code/glermelez/fish-classification
